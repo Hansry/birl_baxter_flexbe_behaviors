@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="Place behavior">
+
+	<executable package_path="behavior_place_behavior.place_behavior_sm" class="PlacebehaviorSM" />
+	<tagstring>test</tagstring>
+	<author>Ben</author>
+	<date>Wed Aug 23 2017</date>
+	<description>
+		place a object below the gripper
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

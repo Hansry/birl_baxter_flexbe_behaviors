@@ -1,0 +1,10 @@
+path: birl_flexbe_states.execute_trajectory_move_pose
+class: ExecuteTrajectoryMovePose
+
+params:
+    duration: 8.0
+
+input:
+    'goal_pose' : {'position':{'x':0.6,'y':0.4,'z':-0.12},'orientation':{'x':0.0, 'y':1.0, 'z':0, 'w':6.123233995736766e-17}}
+
+outcome: reached

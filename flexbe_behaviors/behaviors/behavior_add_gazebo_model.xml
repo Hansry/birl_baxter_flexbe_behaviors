@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="Add Gazebo Model">
+
+	<executable package_path="behavior_add_gazebo_model.add_gazebo_model_sm" class="AddGazeboModelSM" />
+	<tagstring>test</tagstring>
+	<author>Ben</author>
+	<date>Wed Aug 23 2017</date>
+	<description>
+		add male box
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

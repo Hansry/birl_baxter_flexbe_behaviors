@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="go to hover place">
+
+	<executable package_path="behavior_go_to_hover_place.go_to_hover_place_sm" class="gotohoverplaceSM" />
+	<tagstring>test</tagstring>
+	<author>Ben</author>
+	<date>Wed Aug 23 2017</date>
+	<description>
+		move the arm above the object
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

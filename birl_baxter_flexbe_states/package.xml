@@ -1,5 +1,5 @@
 <package>
-  <name>birl_baxter_flexbe_flexbe_states</name>
+  <name>birl_baxter_flexbe_states</name>
   <version>1.0.0</version>
   <description>
      birl_baxter_flexbe_flexbe_states provides a collection of custom states.

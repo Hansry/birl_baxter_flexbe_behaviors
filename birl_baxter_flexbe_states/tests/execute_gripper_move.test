@@ -1,0 +1,8 @@
+path: birl_baxter_flexbe_states.execute_gripper_move
+class: ExecuteGripperMove
+
+params:
+    gripper_move: True
+
+
+outcome: reached

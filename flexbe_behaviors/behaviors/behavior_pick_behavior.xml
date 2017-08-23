@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="Pick behavior">
+
+	<executable package_path="behavior_pick_behavior.pick_behavior_sm" class="PickbehaviorSM" />
+	<tagstring>test</tagstring>
+	<author>Ben</author>
+	<date>Wed Aug 23 2017</date>
+	<description>
+		pick a object below the gripper
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

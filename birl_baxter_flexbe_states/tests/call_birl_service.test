@@ -1,0 +1,7 @@
+path: birl_flexbe_states.call_birl_service
+class: CallBirlService
+
+params:
+    service_name: 'add_gazebo_box_model'
+
+outcome: done

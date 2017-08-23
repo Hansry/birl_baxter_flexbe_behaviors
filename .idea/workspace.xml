@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="232871ae-a84f-463b-a3bb-3aee46be0462" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_gripper_move.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/birl_baxter_flexbe_states/tests/execute_gripper_move.test" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/birl_baxter_flexbe_flexbe_states/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/birl_baxter_flexbe_flexbe_states/package.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/birl_baxter_flexbe_flexbe_states/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/birl_baxter_flexbe_flexbe_states/src/birl_baxter_flexbe_flexbe_states/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/birl_baxter_flexbe_flexbe_states/src/birl_baxter_flexbe_flexbe_states/example_action_state.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/birl_baxter_flexbe_flexbe_states/src/birl_baxter_flexbe_flexbe_states/example_state.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flexbe_behaviors/package.xml" afterPath="$PROJECT_DIR$/flexbe_behaviors/package.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/proxy/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="execute_trajectory_move_pose.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_trajectory_move_pose.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="execute_trajectory_move_start_pose.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_trajectory_move_start_pose.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/package.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proxy_trajectory_client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/proxy/proxy_trajectory_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="719">
+              <caret line="216" column="16" lean-forward="false" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+              <folding>
+                <element signature="e#23#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="execute_gripper_move.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_gripper_move.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+              <folding>
+                <element signature="e#23#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="execute_gripper_move.test" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/tests/execute_gripper_move.test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gripper</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/__init__.py" />
+        <option value="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/proxy/__init__.py" />
+        <option value="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_trajectory_move_pose.py" />
+        <option value="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_trajectory_move_start_pose.py" />
+        <option value="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/proxy/proxy_trajectory_client.py" />
+        <option value="$PROJECT_DIR$/birl_baxter_flexbe_states/tests/execute_gripper_move.test" />
+        <option value="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_gripper_move.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="992" />
+    <option name="y" value="24" />
+    <option name="width" value="927" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="birl_baxter_flexbe_behaviors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birl_baxter_flexbe_behaviors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="birl_baxter_flexbe_behaviors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birl_baxter_flexbe_behaviors" type="462c0819:PsiDirectoryNode" />
+              <item name="birl_baxter_flexbe_states" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="birl_baxter_flexbe_behaviors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birl_baxter_flexbe_behaviors" type="462c0819:PsiDirectoryNode" />
+              <item name="birl_baxter_flexbe_states" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="birl_baxter_flexbe_behaviors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birl_baxter_flexbe_behaviors" type="462c0819:PsiDirectoryNode" />
+              <item name="birl_baxter_flexbe_states" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="birl_baxter_flexbe_states" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="birl_baxter_flexbe_behaviors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birl_baxter_flexbe_behaviors" type="462c0819:PsiDirectoryNode" />
+              <item name="birl_baxter_flexbe_states" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="birl_baxter_flexbe_states" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="birl_baxter_flexbe_behaviors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="birl_baxter_flexbe_behaviors" type="462c0819:PsiDirectoryNode" />
+              <item name="birl_baxter_flexbe_states" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../birl_baxter_simulator" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/birl_baxter_flexbe_states/tests" />
+      <recent name="$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="232871ae-a84f-463b-a3bb-3aee46be0462" name="Default" comment="" />
+      <created>1503484105604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503484105604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="992" y="24" width="927" height="1056" extended-state="4" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29341963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/proxy/proxy_trajectory_client.py</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/proxy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_trajectory_move_pose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_trajectory_move_start_pose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/proxy/proxy_trajectory_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="216" column="16" lean-forward="false" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+          <folding>
+            <element signature="e#23#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/tests/execute_gripper_move.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birl_baxter_flexbe_states/src/birl_baxter_flexbe_states/execute_gripper_move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <element signature="e#23#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

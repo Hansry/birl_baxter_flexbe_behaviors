@@ -1,0 +1,20 @@
+<package>
+  <name>behavior_pick_and_place</name>
+  <version>1.0.0</version>
+  <description>
+     Baxter robot executing pick and place behavior
+  </description>
+  <maintainer email="todo@todo.com">Ben</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/behavior_pick_and_place</url>
+  <author>Ben</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>flexbe_core</run_depend>
+  <run_depend>flexbe_states</run_depend>
+  <run_depend>birl_baxter_flexbe_states</run_depend>
+
+</package>

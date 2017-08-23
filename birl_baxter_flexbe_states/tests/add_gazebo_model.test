@@ -1,0 +1,7 @@
+path: birl_flexbe_states.add_gazebo_model
+class: AddGazeboModel
+
+params:
+    model_name: "box_male"
+
+outcome: done

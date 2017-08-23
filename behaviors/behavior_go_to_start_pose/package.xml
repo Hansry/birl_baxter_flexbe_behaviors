@@ -1,0 +1,20 @@
+<package>
+  <name>behavior_go_to_start_pose</name>
+  <version>1.0.0</version>
+  <description>
+     Move the arm to start pose
+  </description>
+  <maintainer email="todo@todo.com">Ben Lin</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/behavior_go_to_start_pose</url>
+  <author>Ben Lin</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>flexbe_core</run_depend>
+  <run_depend>flexbe_states</run_depend>
+  <run_depend>birl_baxter_flexbe_states</run_depend>
+
+</package>

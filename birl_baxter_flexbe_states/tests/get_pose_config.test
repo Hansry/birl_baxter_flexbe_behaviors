@@ -1,0 +1,10 @@
+path: birl_flexbe_states.get_pose_config
+class: GetPoseConfig
+
+params:
+    pose_name: "gazebo_model_pose"
+
+
+
+
+outcome: done

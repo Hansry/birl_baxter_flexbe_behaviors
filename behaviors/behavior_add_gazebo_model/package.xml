@@ -1,0 +1,20 @@
+<package>
+  <name>behavior_add_gazebo_model</name>
+  <version>1.0.0</version>
+  <description>
+     add male box
+  </description>
+  <maintainer email="todo@todo.com">Ben</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/behavior_add_gazebo_model</url>
+  <author>Ben</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>flexbe_core</run_depend>
+  <run_depend>flexbe_states</run_depend>
+  <run_depend>birl_baxter_flexbe_states</run_depend>
+
+</package>

@@ -13,5 +13,12 @@
 
   <!-- Add here all ROS packages that contain behaviors -->
   <run_depend>behavior_example_behavior</run_depend>
+  <run_depend>behavior_add_gazebo_model</run_depend>
+  <run_depend>behavior_go_to_start_pose</run_depend>
+  <run_depend>behavior_go_to_hover_pick_pose</run_depend>
+  <run_depend>behavior_pick_behavior</run_depend>
+  <run_depend>behavior_place_behavior</run_depend>
+  <run_depend>behavior_go_to_hover_place</run_depend>
+  <run_depend>behavior_pick_and_place</run_depend>
 
 </package>
